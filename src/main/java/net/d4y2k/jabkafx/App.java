@@ -38,8 +38,6 @@ public class App extends Application {
         
         stage.setScene(scene);
         stage.initStyle(StageStyle.TRANSPARENT);
-        stage.setFullScreen(true);
-        stage.setFullScreenExitHint("");
         stage.show();
     }
 
